@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  I am Poor
 //
-//  Created by Stelio Bastos on 15/03/21.
+//  Created by Atila Bastos on 15/03/21.
 //
 
 import UIKit
